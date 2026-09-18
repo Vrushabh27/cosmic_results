@@ -1,0 +1,24 @@
+# policy_name: Cosmic
+# run_path: /home/vrushabh-zinage/cosmic_ms_workspace/dedup/pnp_v1
+# dt: 0.067
+# max_steps: None
+policy,category,successes,total,success_rate_pct,ci_95_low_pct,ci_95_high_pct,jerk_joint_mean,jerk_joint_std
+Cosmic,Bottle,34,55,61.82,48.55,73.5,21.940845,7.458618
+Cosmic,Candle,37,55,67.27,54.04,78.19,26.101335,7.184216
+Cosmic,Cup,29,56,51.79,38.97,64.37,22.110576,16.60792
+Cosmic,Egg,27,56,48.21,35.63,61.03,21.898192,12.319628
+Cosmic,Fork,17,55,30.91,20.29,44.1,27.2765,27.540379
+Cosmic,Fruit,14,55,25.45,15.83,38.37,25.324846,14.502993
+Cosmic,Irishpotato,21,55,38.18,26.5,51.45,18.947067,10.934049
+Cosmic,Knife,14,56,25.0,15.54,37.76,25.886278,25.522547
+Cosmic,Ladle,30,56,53.57,40.66,66.02,27.987251,19.990483
+Cosmic,Mug,44,56,78.57,66.11,87.26,24.588296,11.470466
+Cosmic,Papertowel,41,55,74.55,61.63,84.17,20.891359,8.681579
+Cosmic,Remote Control,10,56,17.86,10.05,29.91,16.708969,9.953364
+Cosmic,S/p Shaker,38,56,67.86,54.76,78.6,25.472015,19.034605
+Cosmic,Soap Dispenser,20,55,36.36,24.92,49.64,26.779,13.011575
+Cosmic,Spatula,2,56,3.57,1.1,12.11,15.698071,12.007625
+Cosmic,Spoon,22,56,39.29,27.56,52.43,22.005956,25.885728
+Cosmic,Spray Bottle,29,56,51.79,38.97,64.37,24.855131,14.632184
+Cosmic,Tissue Paper,18,55,32.73,21.81,45.96,26.645987,13.877175
+Cosmic,OVERALL,447,1000,44.7,41.64,47.8,23.388683,16.604686

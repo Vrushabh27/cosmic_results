@@ -1,0 +1,24 @@
+# policy_name: Cosmic
+# run_path: /home/vrushabh-zinage/cosmic_ms_workspace/dedup/pick_v15
+# dt: 0.067
+# max_steps: None
+policy,category,successes,total,success_rate_pct,ci_95_low_pct,ci_95_high_pct,jerk_joint_mean,jerk_joint_std
+Cosmic,Bottle,51,55,92.73,82.71,97.04,28.33062,10.376366
+Cosmic,Bowl,49,56,87.5,76.32,93.74,29.642678,12.041027
+Cosmic,Box,49,55,89.09,78.12,94.82,30.53458,9.440702
+Cosmic,Cup,49,56,87.5,76.32,93.74,31.641654,12.511773
+Cosmic,Fork,16,56,28.57,18.43,41.54,17.942673,19.130109
+Cosmic,Fruit,12,55,21.82,12.98,34.44,28.244715,16.344357
+Cosmic,Kettle,43,56,76.79,64.16,85.87,31.831877,15.397822
+Cosmic,Knife,19,56,33.93,22.91,47.06,15.601971,16.316477
+Cosmic,Ladle,34,55,61.82,48.55,73.5,23.218494,16.885097
+Cosmic,Mug,49,56,87.5,76.32,93.74,27.556951,11.729724
+Cosmic,Pot,37,56,66.07,52.94,77.09,23.770402,15.570983
+Cosmic,Remote Control,16,55,29.09,18.78,42.21,15.631178,18.395312
+Cosmic,S/p Shaker,44,56,78.57,66.11,87.26,32.06357,17.356934
+Cosmic,Soap Dispenser,45,55,81.82,69.6,89.77,31.642418,14.370852
+Cosmic,Spatula,2,56,3.57,1.1,12.11,10.94261,9.623615
+Cosmic,Spoon,17,55,30.91,20.29,44.1,13.744576,17.069882
+Cosmic,Spray Bottle,48,56,85.71,74.21,92.52,33.127684,10.684491
+Cosmic,Tissue Paper,31,55,56.36,43.22,68.66,28.048946,14.834988
+Cosmic,OVERALL,611,1000,61.1,58.04,64.07,25.19759,16.259597
